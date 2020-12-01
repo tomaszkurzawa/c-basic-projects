@@ -1,0 +1,11 @@
+int age = 20;
+ 
+if (age >= 18) {
+  
+  std::cout << "can vote\n";
+  
+} else {
+  
+  std::cout << "can't vote\n";
+  
+}
